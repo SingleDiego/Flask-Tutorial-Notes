@@ -8,4 +8,5 @@
 * [06.个人主页和头像](https://github.com/SingleDiego/Flask-Tutorial-Notes/blob/main/docs/06.%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5%E5%92%8C%E5%A4%B4%E5%83%8F.md)
 * [07.错误处理](https://github.com/SingleDiego/Flask-Tutorial-Notes/blob/main/docs/07.%E9%94%99%E8%AF%AF%E5%A4%84%E7%90%86.md)
 * [08.粉丝](https://github.com/SingleDiego/Flask-Tutorial-Notes/blob/main/docs/08.%E7%B2%89%E4%B8%9D.md)
+* [09.分页](https://github.com/SingleDiego/Flask-Tutorial-Notes/blob/main/docs/09.%E5%88%86%E9%A1%B5.md)
 
