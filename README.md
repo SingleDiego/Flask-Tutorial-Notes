@@ -10,4 +10,5 @@
 * [08.粉丝](https://github.com/SingleDiego/Flask-Tutorial-Notes/blob/main/docs/08.%E7%B2%89%E4%B8%9D.md)
 * [09.分页](https://github.com/SingleDiego/Flask-Tutorial-Notes/blob/main/docs/09.%E5%88%86%E9%A1%B5.md)
 * [10.邮件支持](https://github.com/SingleDiego/Flask-Tutorial-Notes/blob/main/docs/10.%E9%82%AE%E4%BB%B6%E6%94%AF%E6%8C%81.md)
+* [11.美化](https://github.com/SingleDiego/Flask-Tutorial-Notes/blob/main/docs/11.%E7%BE%8E%E5%8C%96.md)
 
