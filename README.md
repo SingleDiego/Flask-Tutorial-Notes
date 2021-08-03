@@ -11,4 +11,5 @@
 * [09.分页](https://github.com/SingleDiego/Flask-Tutorial-Notes/blob/main/docs/09.%E5%88%86%E9%A1%B5.md)
 * [10.邮件支持](https://github.com/SingleDiego/Flask-Tutorial-Notes/blob/main/docs/10.%E9%82%AE%E4%BB%B6%E6%94%AF%E6%8C%81.md)
 * [11.美化](https://github.com/SingleDiego/Flask-Tutorial-Notes/blob/main/docs/11.%E7%BE%8E%E5%8C%96.md)
+* [12.日期和时间](https://github.com/SingleDiego/Flask-Tutorial-Notes/blob/main/docs/12.%E6%97%A5%E6%9C%9F%E5%92%8C%E6%97%B6%E9%97%B4.md)
 
