@@ -13,4 +13,7 @@
 * [11.美化](https://github.com/SingleDiego/Flask-Tutorial-Notes/blob/main/docs/11.%E7%BE%8E%E5%8C%96.md)
 * [12.日期和时间](https://github.com/SingleDiego/Flask-Tutorial-Notes/blob/main/docs/12.%E6%97%A5%E6%9C%9F%E5%92%8C%E6%97%B6%E9%97%B4.md)
 * [13.国际化和本地化](https://github.com/SingleDiego/Flask-Tutorial-Notes/blob/main/docs/13.%E5%9B%BD%E9%99%85%E5%8C%96%E5%92%8C%E6%9C%AC%E5%9C%B0%E5%8C%96.md)
+* [14.Ajax](https://github.com/SingleDiego/Flask-Tutorial-Notes/blob/main/docs/14.Ajax.md)
+* [15.全文搜索](https://github.com/SingleDiego/Flask-Tutorial-Notes/blob/main/docs/15.%E5%85%A8%E6%96%87%E6%90%9C%E7%B4%A2.md)
+
 
